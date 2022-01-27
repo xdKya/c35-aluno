@@ -1,1 +1,2 @@
-# c35-aluno
+# synchronousBallMovement
+Ball moving synchronously
